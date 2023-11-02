@@ -1,0 +1,12 @@
+Flow ID,Description,Test Steps,Flow Priority
+2,Verify Successful Navigation to Garden Page,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink nhan nguyen mybigcommerce com bath --> navigate to Page bath
+step 3: At Page bath  click on hyperlink nhan nguyen mybigcommerce com kitchen --> navigate to Page kitchen
+step 4: At Page kitchen  click on hyperlink nhan nguyen mybigcommerce com publicatio --> navigate to Page publications
+step 5: At Page publications  click on hyperlink nhan nguyen mybigcommerce com shop all --> navigate to Page shop-all
+step 6: At Page shop-all  click on hyperlink nhan nguyen mybigcommerce com shipping r --> navigate to Page shipping-returns
+step 7: At Page shipping-returns  click on hyperlink nhan nguyen mybigcommerce com garden --> navigate to Page garden
+step 8: Add visual checkpoint at Page garden",High
+1,Verify Successful Navigation to Login Page,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink login php --> navigate to Page login php
+step 3: Add visual checkpoint at Page login php",High
