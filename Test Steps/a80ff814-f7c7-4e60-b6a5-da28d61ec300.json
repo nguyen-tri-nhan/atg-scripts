@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink nhan nguyen mybigcommerce com bath --> navigate to Page bath",
+        "step 3: At Page bath  click on hyperlink nhan nguyen mybigcommerce com kitchen --> navigate to Page kitchen",
+        "step 4: At Page kitchen  click on hyperlink nhan nguyen mybigcommerce com publicatio --> navigate to Page publications",
+        "step 5: At Page publications  click on hyperlink nhan nguyen mybigcommerce com shop all --> navigate to Page shop-all",
+        "step 6: At Page shop-all  click on hyperlink nhan nguyen mybigcommerce com xuan an co --> navigate to Page xuan-an-corgy",
+        "step 7: At Page xuan-an-corgy  input on input qty",
+        "step 8: At Page xuan-an-corgy  click on input form action addtocart",
+        "step 9: At Page xuan-an-corgy  click on hyperlink checkout --> navigate to Page checkout",
+        "step 10: At Page checkout input on input email",
+        "step 11: At Page checkout click on label object",
+        "step 12: At Page checkout click on button checkout customer continue",
+        "step 13: Add visual checkpoint at Page checkout"
+    ]
+}

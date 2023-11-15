@@ -1,9 +1,29 @@
 Flow ID,Description,Test Steps,Flow Priority
-2,Verify successful navigation to Garden page,"step 1: Navigate to Page garden
-step 2: Add visual checkpoint at Page garden",High
-3,Verify successful navigation to Xuan An Corgy page,"step 1: Navigate to Page xuan-an-corgy
-step 2: Add visual checkpoint at Page xuan-an-corgy",High
-1,Verify successful navigation to Home page,"step 1: Navigate to Page home
-step 2: Add visual checkpoint at Page home",High
-4,Verify successful navigation to Bath page,"step 1: Navigate to Page bath
-step 2: Add visual checkpoint at Page bath",High
+3,Verify Checkout Process on Checkout Page,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink nhan nguyen mybigcommerce com bath --> navigate to Page bath
+step 3: At Page bath  click on hyperlink nhan nguyen mybigcommerce com kitchen --> navigate to Page kitchen
+step 4: At Page kitchen  click on hyperlink nhan nguyen mybigcommerce com publicatio --> navigate to Page publications
+step 5: At Page publications  click on hyperlink nhan nguyen mybigcommerce com shop all --> navigate to Page shop-all
+step 6: At Page shop-all  click on hyperlink nhan nguyen mybigcommerce com xuan an co --> navigate to Page xuan-an-corgy
+step 7: At Page xuan-an-corgy  input on input qty
+step 8: At Page xuan-an-corgy  click on input form action addtocart
+step 9: At Page xuan-an-corgy  click on hyperlink checkout --> navigate to Page checkout
+step 10: At Page checkout input on input email
+step 11: At Page checkout click on label object
+step 12: At Page checkout click on button checkout customer continue
+step 13: Add visual checkpoint at Page checkout",High
+1,Verify Successful Login on Login Page,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink login php --> navigate to Page login php
+step 3: Add visual checkpoint at Page login php",High
+2,Verify Garden Page Navigation,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink nhan nguyen mybigcommerce com bath --> navigate to Page bath
+step 3: At Page bath  click on hyperlink nhan nguyen mybigcommerce com kitchen --> navigate to Page kitchen
+step 4: At Page kitchen  click on hyperlink nhan nguyen mybigcommerce com publicatio --> navigate to Page publications
+step 5: At Page publications  click on hyperlink nhan nguyen mybigcommerce com shop all --> navigate to Page shop-all
+step 6: At Page shop-all  click on hyperlink nhan nguyen mybigcommerce com shipping r --> navigate to Page shipping-returns
+step 7: At Page shipping-returns  click on hyperlink nhan nguyen mybigcommerce com garden --> navigate to Page garden
+step 8: Add visual checkpoint at Page garden",Medium
+4,Verify Adding Item to Cart on Smith Journal13 Page,"step 1: Navigate to Page smith-journal-13
+step 2: At Page smith-journal-13  input on input qty
+step 3: At Page smith-journal-13  click on input form action addtocart
+step 4: Add visual checkpoint at Page smith-journal-13",Trivial

@@ -2,16 +2,6 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'nhan@gmail.com'</initValue>
-        <name>username</name>
-    </GlobalVariableEntity>
-    <GlobalVariableEntity>
-        <description></description>
-        <initValue>'D4EEKK9Mf!'</initValue>
-        <name>password</name>
-    </GlobalVariableEntity>
-    <GlobalVariableEntity>
-        <description></description>
         <initValue>'https://nhan-nguyen.mybigcommerce.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
